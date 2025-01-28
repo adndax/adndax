@@ -7,6 +7,3 @@ I'm undergraduate student at Informatics Engineering, Bandung Institute of Techn
 
 # 🖥️ Top Language
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adndax&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-# 📊 GitHub Statistic
-![](https://github-readme-streak-stats.herokuapp.com/?user=adndax&theme=dark&hide_border=false)<br/>
