@@ -14,8 +14,7 @@ Besides coding, I also enjoy designing thoughtful UI/UX experiences that are bot
 - **Languages:** JavaScript, TypeScript, HTML, CSS
 - **Frameworks/Libraries:** ReactJS, Next.js, Tailwind CSS, Framer Motion
 - **Design:** Figma, Adobe XD, Prototyping, Responsive UI Design, UX Writing
-- **Tools:** Git, GitHub, VS Code, Vite, Postman
-- **Currently Learning:** Zustand, tRPC, Testing with Vitest + React Testing Library
+- **Tools:** Git, GitHub, VS Code, Vite
 
 ---
 
@@ -28,6 +27,8 @@ Besides coding, I also enjoy designing thoughtful UI/UX experiences that are bot
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adndax&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<img src="https://komarev.com/ghpvc/?username=adndax&style=flat-square" alt="Profile Views">
 
 ---
 
