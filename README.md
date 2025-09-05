@@ -1,10 +1,10 @@
 ## 👋 Hi there, I'm Dinda!
 
-I'm an undergraduate student majoring in **Informatics Engineering** at **Bandung Institute of Technology (ITB)**, currently diving deep into **front-end development**. I love crafting clean, accessible, and visually appealing user interfaces 💻🎨
+I’m an undergraduate student in Informatics Engineering at Bandung Institute of Technology (ITB). My main focus is on building clean, accessible, and user-friendly interfaces using ReactJS and modern web technologies.
 
-Right now, I'm focusing on **ReactJS** and modern web technologies, always exploring new tools and techniques to bring creative ideas to life. I'm also passionate about contributing to open-source projects and collaborating with other developers in the community 🌱
+I’m also currently exploring Data Science and Artificial Intelligence, aiming to combine my skills in front-end development with intelligent systems and data-driven solutions.
 
-Besides coding, I also enjoy designing thoughtful UI/UX experiences that are both beautiful and user-centric. I believe that great design is just as important as great functionality ✨
+Beyond coding, I’m interested in UI/UX design, believing that great design and great functionality should always go hand in hand.
 
 > Always learning, always building. Let's create something amazing together! 🚀
 
